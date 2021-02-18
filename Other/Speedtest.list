@@ -1,0 +1,15 @@
+
+DOMAIN,lg-tok.fdcservers.net
+DOMAIN-SUFFIX,mbspeed.net
+
+DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,oca.nflxvideo.net
+
+#cloudflare
+DOMAIN-SUFFIX,speed.cloudflare.com
+
+#Speedtest
+PROCESS-NAME,Speedtest
+USER-AGENT,SpeedTest*
+DOMAIN-KEYWORD,speedtest
+DOMAIN-SUFFIX,ooklaserver.net
